@@ -8,6 +8,7 @@ Single Page Application
 <li>Automated/Manual Login for student(s)</li>
 <li>Summarize the absences activities</li>
 <li>Student,School Year, Activity (CRUD)</li>
+<li>Admin Roles & Permissions</li>
 
 ## Installation
 <li>run "php artisan key:generate" to generate application key</li>
